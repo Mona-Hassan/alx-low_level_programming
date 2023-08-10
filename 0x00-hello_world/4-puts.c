@@ -1,9 +1,11 @@
 #include <stdio.h>
 
-/** this is a comment to write my fist c fun **/
+/** This is a first comment in c which I did,"
+ * Always Return 0;
+**/
 
-int main(void){
-
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
-}
+ int main(void)
+ {
+	puts("\" Programming is like building a multilingual puzzle");
+	retuen (0);
+ }
