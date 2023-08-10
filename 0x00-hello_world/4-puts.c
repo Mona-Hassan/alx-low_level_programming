@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/** This is a first comment in c which I did,"
+/** This is a first comment in c which I did,
  * Always Return 0;
 **/
 
