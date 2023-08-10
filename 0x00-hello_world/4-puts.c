@@ -1,10 +1,12 @@
 #include <stdio.h>
 
-/** This is a first comment in c which I did,
- * Always Return 0;
+/** main - prints "Programming is like building a multilingual puzzle,
+ * follwed by next line"
+ * Return Always: 0
 **/
 
  int main(void)
+
  {
 	puts("\" Programming is like building a multilingual puzzle");
 	retuen (0);
