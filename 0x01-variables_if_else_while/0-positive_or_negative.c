@@ -2,9 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
- * main - generate " This program will assign a random number
+/**
+ * main - Entry point
+ * " This program will assign a random number
  * to the variable n each time it is executed"
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
