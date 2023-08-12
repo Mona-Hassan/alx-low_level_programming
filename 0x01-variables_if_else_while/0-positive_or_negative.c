@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 
-/* 
- * main - generate " This program will assign a random number 
+/*
+ * main - generate " This program will assign a random number
  * to the variable n each time it is executed"
  */
 int main(void)
