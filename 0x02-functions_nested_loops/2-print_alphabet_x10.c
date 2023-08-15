@@ -1,12 +1,22 @@
 #include "main.h"
 
 /**
- * main - intry point
+ * print_alphabet_x10 - intry point
  * desc: print 10x
  * Return: void
  */
-int main(void)
+int print_alphabet_x10(void)
 {
-	print_alphabet_x10();
-	return (0);	
+	char c;
+	int i = 0;
+
+	while (i <= 9)
+	{
+		for (c = 'a'; c <= 'z'; c++)
+		{
+			_putchar(c);
+		}
+		_putchar('\n');
+		i++;
+	}	
 }
