@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _abs omputes the absolute value of an integer.
+ * _abs - Computes the absolute value of an integer.
  * @c: the number to be checked
  * Return: Absolute value of a number or zero
  */
