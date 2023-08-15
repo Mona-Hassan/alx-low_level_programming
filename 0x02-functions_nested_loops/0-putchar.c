@@ -5,7 +5,7 @@
  * desc: prints putchar
  * Return: Always 00
  */
-int main(void)
+char main(void)
 {
 	putchar("_putchar\n");
 	return (0);
