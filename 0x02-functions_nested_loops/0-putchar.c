@@ -1,11 +1,19 @@
-#include <stdio.h>
+#include <main.h>
 
 /**
  * main - entry point
  * desc: prints putchar
  * Return: Always 00
  */
-int _putchar(char a)
+int main(void)
 {
-	return (write(1, &a, 1));
+	putchar('_');
+	putchar('p');
+	putchar('u');
+	putchar('t');
+	putchar('c');
+	putchar('h');
+	putchar('a');
+	putchar('r');
+	return (0);
 }
