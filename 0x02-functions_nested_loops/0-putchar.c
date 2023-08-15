@@ -5,9 +5,7 @@
  * desc: prints putchar
  * Return: Always 00
  */
-int main(void)
+int _putchar(char a)
 {
-	putchar('_putchar');
-	putchar('\n');
-	return (0);
+	return (write(1, &a, 1));
 }
