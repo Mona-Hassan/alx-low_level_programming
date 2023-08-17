@@ -28,3 +28,4 @@ int positive_or_negative(void)
 	}
 	return (0);
 }
+
