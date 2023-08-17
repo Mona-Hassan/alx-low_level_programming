@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * mn - check the code
  *
  * Return: Always 0.
  */
-int main(void)
+int mn(void)
 {
     more_numbers();
     return (0);
