@@ -3,6 +3,18 @@
 /**
  * main - entry point
  * desc: prints putchar
- * Return: Always 0
+ * Return: Always 00
  */
-int _putchar(char c);
+int main(void)
+{
+	putchar('_');
+	putchar('p');
+	putchar('u');
+	putchar('t');
+	putchar('c');
+	putchar('h');
+	putchar('a');
+	putchar('r');
+	putchar('\n');
+	return (0);
+}
